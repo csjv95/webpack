@@ -1,7 +1,7 @@
 var path = require('path');
 
 module.exports = {
-  mode: 'none',
+  mode: 'none', // prodcut , ,none
   entry: './index.js',
   output: {
     filename: 'bundle.js',
